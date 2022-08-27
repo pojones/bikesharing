@@ -5,19 +5,19 @@ https://s3.amazonaws.com/tripdata/index.html
 More information about the data can be found on the parent site:
 https://ride.citibikenyc.com/system-data
 ## Results
-![photoSummary1]()
+![photoSummary1](resources/photoSummary1.png)
 This bar graph shows user demographics over total ride counts, separated by day of the week. The data indicate that a significant portion of subscribers are regular commuters. The non-subscribers tend toward weekend rides. Additionally, there seems to be an unusual lull in all user types and genders on Wednesdays.
-![image]()
+![photoSummary2](resources/photoSummary2.png)
 This graph shows the total ride counts, separated by hour of the day. Peak ride time coincides with regular commuter hours. The least busy times are early morning 2am-4am. 
-![image]()
+![photoSummary3](resources/photoSummary3.png)
 This curve represents the average ride times. It seems that most rides are around five minutes or slightly longer. However, a quick look through commuter hours reveals longer ride times (twenty minutes or more).
-![image]()
+![photoSummary4](resources/photoSummary4.png)
 Here we see a similar curve, this time separated along gender lines. It seems that men and women use bikes for roughly the same period of time, on average. However, far fewer riders are female than are male. 
-![image]()
+![photoSummary5](resources/photoSummary5.png)
 This heatmap is a representation of user density by hour, by day of the week. We see many bikes being used during commuter hours on weekdays. Weekends tend to see higher numbers during late morning or midday. 
-![image]()
+![photoSummary6](resources/photoSummary6.png)
 An extension of the last graph, this one adds a filter by gender. Again, we see that rental behaviors are similar between men and women, but generally less riders are women. 
-![image]()
+![photoSummary7](resources/photoSummary7.png)
 Another heat map, although with much less resolution. This represents user genders grouped by day of week. Most apparent here is the unusual dip in ride counts on Wednesdays.
 ### Summary
 Observations worth noting are the relatively low turnout of female users and the unusual dip in Wednesday rides. Additional analyses would be needed to investigate. Further comparisons could be made to see if all the Wednesdays in August showed low turnout or if there is an outlier that is skewing data. To explore female participation, the data at hand is rather limiting. However- the location information in the dataset could be used to see if geographical location is a factor. 
