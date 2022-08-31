@@ -34,4 +34,4 @@ to investigate. Further comparisons could be made to see if all the Wednesdays i
 skewing data. To explore female participation, the data at hand is rather limiting. However- the location information in the dataset could be used to 
 see if geographical location is a factor. 
 The full Tableau project can be found on Tableau Public:<br/>
-https://public.tableau.com/views/CitibikeAnalysis_16615746088060/GenderUsertypeStatisticsWeekday?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/parker1102/viz/CitibikeAnalysis_16615746088060/NYCCitibikeAnalysis?publish=yes
